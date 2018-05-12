@@ -1,10 +1,16 @@
 _repo: Motor-Matt-s-Hard-Luck-or-The-Balloon-House-Plot_47975
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47975-h/images/cover.jpg
 creator:
   author:
     agent_name: Matthews, Stanley R.
     gutenberg_agent_id: '43601'
     url: http://www.gutenberg.org/2009/agents/43601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47975#Motor-Matt-s-Hard-Luck-or-The-Balloon-House-Plot
 gutenberg_issued: '2015-01-15'
 gutenberg_type: Text
 identifiers:
